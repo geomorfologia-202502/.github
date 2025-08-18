@@ -32,7 +32,7 @@ invisible(dev.off())
 
 - Prácticas de aula
 
-  - [PA00. Nivelación de geología para geomorfología](https://github.com/geomorfologia-master/nivelacion-de-geologia-para-geomorfologia). Plazo de entrega: 10 de febrero, 2025, 3:59 pm.
+  - [PA00. Nivelación de geología para geomorfología](https://github.com/geomorfologia-master/nivelacion-de-geologia-para-geomorfologia). Plazo de entrega: 25 de agosto, 2025, 3:59 pm.
   
   <!-- - [PA01. Mapa geomorfológico de RD y Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones). Plazo de entrega: 10 de febrero, 2025, 3:59 pm. -->
 

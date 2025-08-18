@@ -55,7 +55,7 @@ Autónoma de Santo Domingo (UASD)
 
   - [PA00. Nivelación de geología para
     geomorfología](https://github.com/geomorfologia-master/nivelacion-de-geologia-para-geomorfologia).
-    Plazo de entrega: 10 de febrero, 2025, 3:59 pm.
+    Plazo de entrega: 25 de agosto, 2025, 3:59 pm.
 
   <!-- - [PA01. Mapa geomorfológico de RD y Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones). Plazo de entrega: 10 de febrero, 2025, 3:59 pm. -->
   <!-- - [PA02. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-master/interpolacion-idw). Plazo de entrega: 17 de febrero, 2025, 3:59 pm. -->
