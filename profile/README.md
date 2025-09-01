@@ -69,7 +69,8 @@ Autónoma de Santo Domingo (UASD)
 - [Unidad 1 (Semana 2). Fundamentos, bases geológicas y tiempo en
   geomorfología](https://geomorfologia-master.github.io/fundamentos-bases-geologicas-tiempo/README.html)
 
-<!-- - [Unidad 2 (Semana 3). Geomorfometría y modelado del paisaje]() -->
+- [Unidad 2 (Semana 3). Geomorfometría y modelado del
+  paisaje](https://geomorfologia-master.github.io/geomorfometria-modelado-del-paisaje/README.html)
 
 ## Prácticas de aula
 
@@ -78,7 +79,11 @@ Autónoma de Santo Domingo (UASD)
   Plazo de entrega: 25 de agosto, 2025, 3:59 pm.
 
 <!-- - [PA01. ](). Plazo de entrega: 8 de septiembre, 2025, 3:59 pm. -->
-<!-- - [PA01. Mapa geomorfológico de RD y Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones). Plazo de entrega: 10 de febrero, 2025, 3:59 pm. -->
+
+- [PA01. Mapa geomorfológico de RD y
+  Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones).
+  Plazo de entrega: 8 de septiembre, 2025, 3:59 pm.
+
 <!-- - [PA02. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-master/interpolacion-idw). Plazo de entrega: 17 de febrero, 2025, 3:59 pm. -->
 <!-- - [PA03. Agrupar provincias según sus formas predominantes](https://github.com/geomorfologia-master/agrupamiento-por-formas). Plazo de entrega: 2 de marzo, 2025, 11:59 pm. -->
 <!-- - [PA04. Meteorización/intemperización, formas resultantes, geomorfología climática](https://github.com/geomorfologia-master/meteorizacion-formas-resultantes-geomorfologia-climatica-karst). Plazo de entrega: 23 de marzo, 2025, 11:59 pm. -->
