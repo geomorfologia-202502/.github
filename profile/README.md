@@ -78,8 +78,6 @@ Autónoma de Santo Domingo (UASD)
   geomorfología](https://github.com/geomorfologia-master/nivelacion-de-geologia-para-geomorfologia).
   Plazo de entrega: 25 de agosto, 2025, 3:59 pm.
 
-<!-- - [PA01. ](). Plazo de entrega: 8 de septiembre, 2025, 3:59 pm. -->
-
 - [PA01. Mapa geomorfológico de RD y
   Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones).
   Plazo de entrega: 8 de septiembre, 2025, 3:59 pm.
@@ -91,6 +89,12 @@ Autónoma de Santo Domingo (UASD)
 <!-- - [PA05. Tiempo en geomorfología](https://github.com/geomorfologia-master/tiempo-en-geomorfologia). Plazo de entrega: 16 de septiembre, 2024, 7:59 pm. -->
 <!-- - [PA06. Procesa datos GNSS y obtén soluciones fijas](https://github.com/geomorfologia-master/datos-gnss-soluciones-fijas). Plazo de entrega: 14 de octubre, 2024, 7:59 pm. -->
 <!-- - [PA07. Morfometría de cuencas y procesos fluviales](https://github.com/geomorfologia-master/sistema-fluvial-morfometria-cuenca-basica). Plazo de entrega: 15 de octubre de 2024, 11:59 pm. -->
+
+## Tutoriales interactivos
+
+- [Introducción a R](https://geofis.shinyapps.io/tutorial1/). Este
+  tutorial te ayudará mucho a comprender algo de código de R, así como
+  los objetos básicos en R.
 
 ## Prácticas de desarrollo
 
