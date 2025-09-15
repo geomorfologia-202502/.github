@@ -88,6 +88,10 @@ Autónoma de Santo Domingo (UASD)
   GIS)](https://github.com/geomorfologia-master/geomorfometria-con-srtm-30-m-R-grass).
   Plazo de entrega: 15 de septiembre, 2025, 11:59 pm.
 
+- [PA03. Procesa datos GNSS y obtén soluciones
+  fijas)](https://github.com/geomorfologia-master/datos-gnss-soluciones-fijas).
+  Plazo de entrega: 22 de septiembre, 2025, 11:59 pm.
+
 <!-- - [PA04. Meteorización/intemperización, formas resultantes, geomorfología climática](https://github.com/geomorfologia-master/meteorizacion-formas-resultantes-geomorfologia-climatica-karst). Plazo de entrega: 23 de marzo, 2025, 11:59 pm. -->
 <!-- - [PA04. Formas elementales en el mapa topográfico, comparación con el mapa geomorfológico](https://github.com/geomorfologia-master/formas-elementales-mtn-y-mapa-geomorfologico). Plazo de entrega: 10 de septiembre, 2024, 7:59 pm. -->
 <!-- - [PA05. Tiempo en geomorfología](https://github.com/geomorfologia-master/tiempo-en-geomorfologia). Plazo de entrega: 16 de septiembre, 2024, 7:59 pm. -->
