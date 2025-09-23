@@ -72,6 +72,9 @@ Autónoma de Santo Domingo (UASD)
 - [Unidad 2 (Semana 3). Geomorfometría y modelado del
   paisaje](https://geomorfologia-master.github.io/geomorfometria-modelado-del-paisaje/README.html)
 
+- [Unidad 3 (Semana 4). Intemperización, denudación, procesos de
+  laderas](https://github.com/geomorfologia-master/intemperizacion-denudacion-procesos-de-laderas)
+
 ## Prácticas de aula
 
 - [PA00. Nivelación de geología para
