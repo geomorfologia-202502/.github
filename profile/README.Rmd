@@ -81,5 +81,5 @@ invisible(dev.off())
 
 ## Proyecto de desarrollo
 
-<!-- - [Proyecto de desarrollo. Tu tema, tu investigación Geomorfología (GEO-114). Universidad Autónoma de Santo Domingo (UASD). Semestre 2024-02](https://classroom.github.com/a/mgLR5YV8). Plazo de entrega: 10 de diciembre, 2024, 11:59 pm. -->
+- [Proyecto de desarrollo. Tu tema, tu investigación Geomorfología (GEO-114). Universidad Autónoma de Santo Domingo (UASD). Semestre 2025-02](https://classroom.github.com/a/AtAnQaMG). Plazo de entrega: 23 de diciembre, 2025, 11:59 pm.
 
