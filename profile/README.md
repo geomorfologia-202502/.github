@@ -111,8 +111,7 @@ Autónoma de Santo Domingo (UASD)
   tutorial te ayudará mucho a comprender algo de código de R, así como
   los objetos básicos en R.
 
-## Prácticas de desarrollo
-
+<!-- ## Prácticas de desarrollo -->
 <!-- - [PD01. Hola Mundo](https://classroom.github.com/a/qyQYEq2S). Plazo de entrega: 23 de febrero, 2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `geomorfologia-202501` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje indicándome tu usuario de GitHub (si no lo tienes aún, deberás crearlo) para así poder invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link). -->
 <!-- - [PD02. Geomorfometría, reproducibilidad, redacción, estilos de formato, figuras, tablas, citas y referencias](https://classroom.github.com/a/Pdfw7tXx). Plazo de entrega: 9 de marzo, 2025, 11:59 pm. -->
 <!-- - [PD03. Morfometría de Cuencas y Procesos Fluviales, análisis pormenorizados](https://classroom.github.com/a/q5ELAT7n). Plazo de entrega: 18 de noviembre, 2024, 11:59 pm. [Vídeo tutorial]() -->
