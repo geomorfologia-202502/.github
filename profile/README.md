@@ -116,9 +116,9 @@ Autónoma de Santo Domingo (UASD)
 <!-- - [PD02. Geomorfometría, reproducibilidad, redacción, estilos de formato, figuras, tablas, citas y referencias](https://classroom.github.com/a/Pdfw7tXx). Plazo de entrega: 9 de marzo, 2025, 11:59 pm. -->
 <!-- - [PD03. Morfometría de Cuencas y Procesos Fluviales, análisis pormenorizados](https://classroom.github.com/a/q5ELAT7n). Plazo de entrega: 18 de noviembre, 2024, 11:59 pm. [Vídeo tutorial]() -->
 
-## Proyecto de desarrollo
+## Proyecto de investigación
 
-- [Proyecto de desarrollo. Tu tema, tu investigación Geomorfología
+- [Proyecto de investigación. Tu tema, tu investigación. Geomorfología
   (GEO-114). Universidad Autónoma de Santo Domingo (UASD). Semestre
   2025-02](https://classroom.github.com/a/AtAnQaMG). Plazo de entrega:
   23 de diciembre, 2025, 11:59 pm.
